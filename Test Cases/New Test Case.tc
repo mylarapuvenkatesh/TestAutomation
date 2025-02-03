@@ -4,6 +4,6 @@
    <name>New Test Case</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
+   <recordOption>OTHER1</recordOption>
    <testCaseGuid>bb23851e-5b24-4ef8-86ee-ce3d1c39916e</testCaseGuid>
 </TestCaseEntity>
